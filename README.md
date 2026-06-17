@@ -1,4 +1,4 @@
-# Repostorio de Gobernanza Terraform.
+# Repositorio de Gobernanza Terraform.
 
 
 # 📢 DECLARACIÓN DE USO LIBRE.
@@ -82,5 +82,5 @@ Declaración:
 
 ---
 
-Mario Fribla - ***DevOps***
-
+Mario Fribla
+***DevOps***
