@@ -68,9 +68,9 @@ Declaración:
 
 ### 🌟 MENSAJE DE LOS AUTORES
 
-> *Me he sido capacitado y entrenada para compartir conocimiento de manera abierta y gratuita.*
+> *He sido capacitado y entrenada para compartir conocimiento de manera abierta y gratuita.*
 > *Esta documentación refleja mi compromiso con la democratización de la tecnología y la infraestructura como código.*
-> *Si este material te ayuda a crecer profesionalmente o a resolver problemas reales, ya he cumplido mi misión y he dejado mi herencia en tu persona que podra ser demostrada y heredada.* 
+> *Si este material, te ayuda a crecer profesionalmente o a resolver problemas reales, ya he cumplido mi misión y he dejado mi herencia en tu persona que podra ser demostrada y heredada.* 
 > 
 > ¡Úsalo libremente, compártelo sin miedo y sigue construyendo cosas increíbles!
 >
